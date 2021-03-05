@@ -34,5 +34,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <name>IMiSys</name>
             <instance>default</instance>
         </interface>
+        <fqname>@2.0::IMiSys/default</fqname>
     </hal>
 </manifest>
