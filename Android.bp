@@ -49,7 +49,7 @@ cc_prebuilt_library_shared {
 	soc_specific: true,
 }
 
-cc_prebuilt_library_shared {
+/**cc_prebuilt_library_shared {
 	name: "libplatformconfig",
 	owner: "xiaomi",
 	strip: {
@@ -67,7 +67,7 @@ cc_prebuilt_library_shared {
 	prefer: true,
    check_elf_files: false,
 	soc_specific: true,
-}
+} */
 
 cc_prebuilt_library_shared {
 	name: "libthermalclient",
@@ -89,7 +89,7 @@ cc_prebuilt_library_shared {
 	soc_specific: true,
 }
 
-cc_prebuilt_library_shared {
+/** cc_prebuilt_library_shared {
 	name: "vendor.qti.hardware.capabilityconfigstore@1.0",
 	owner: "xiaomi",
 	strip: {
@@ -107,7 +107,7 @@ cc_prebuilt_library_shared {
 	prefer: true,
    check_elf_files: false,
 	soc_specific: true,
-}
+} */
 
 cc_prebuilt_library_shared {
 	name: "com.quicinc.cne.api@1.0",
