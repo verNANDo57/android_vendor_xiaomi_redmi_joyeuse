@@ -74,6 +74,8 @@
     <bool name="support_headset">true</bool>
     <!--whether the device supports nvdia wifi display-->
     <bool name="support_nvdia_wifi_display">false</bool>
+    <!-- whether support miplay privacy cast(wifi display)-->
+    <bool name="support_miplay_cast_privacy">true</bool>
     <!--whether the device supports eap sim-->
     <bool name="support_eap_sim">true</bool>
     <!--whether the device supports screen optimize-->
@@ -412,6 +414,10 @@
     <string-array name="support_face_unlock_region_global">
         <item>ALL</item>
     </string-array>
+    <!--These region support face unlock-->
+    <string-array name="support_face_unlock_region_dom">
+        <item>CN</item>
+    </string-array>
     <!-- whether support multi face input -->
     <bool name="support_multi_face_input_global">true</bool>
     <!-- whether support ifaa 2dfa feature -->
@@ -428,6 +434,4 @@
     <bool name="support_screen_on_delayed">true</bool>
     <!-- whether support hangup while screen turnning off -->
     <bool name="support_hangup_while_screen_off">true</bool>
-    <!-- Whether support sunlight mode -->
-    <bool name="config_sunlight_mode_available">true</bool>
 </features>
