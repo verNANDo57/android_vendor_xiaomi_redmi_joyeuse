@@ -17,7 +17,6 @@
 	<testitem item_name="headset_key_test" item_action="HeadSetKey" />
 	<!--<testitem item_name="mic1_spk_loop" item_action="Mic1Loopback" />-->
 	<!--<testitem item_name="mic2_spk_loop" item_action="Mic2Loopback" />-->
-	<testitem item_name="fm_test" item_action="Fm" />
 	<testitem item_name="gps_test" item_action="Gps" />
 	<testitem item_name="wifi_test" item_action="Wifi" />
 	<!--<testitem item_name="wifi_addr_test" item_action="WifiAddress" />-->

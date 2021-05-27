@@ -1177,10 +1177,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit1__2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit1__2.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit1__3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit1__3.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit1__4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit1__4.xml \
+    vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit1__5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit1__5.xml \
+    vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit1__6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit1__6.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2__1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2__1.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2__2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2__2.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2__3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2__3.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2__4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2__4.xml \
+    vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2__5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2__5.xml \
+    vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2__6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2__6.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_GCF_1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_GCF_1.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_GCF_2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_GCF_2.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_GCF_3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_GCF_3.xml \
@@ -1188,6 +1192,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_Global_1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_Global_1.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_Global_2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_Global_2.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_Global_3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_Global_3.xml \
+    vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_Japan_5.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_Japan_5.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_Global_4.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_Global_4.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_VDF_1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_VDF_1.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit2_VDF_2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit2_VDF_2.xml \
