@@ -1599,7 +1599,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/fdconfigvideolite.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/fdconfigvideolite.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib64/camera/com.qti.sensor.curtana_hi556.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.curtana_hi556.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib64/camera/com.qti.sensor.excalibur_hi556.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.excalibur_hi556.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib64/hw/sound_trigger.primary.atoll.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sound_trigger.primary.atoll.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/vendor.qti.hardware.perf@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.perf@2.0.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/vendor.qti.hardware.perf@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.perf@2.1.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/vendor.qti.hardware.perf@2.2.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.hardware.perf@2.2.so \
