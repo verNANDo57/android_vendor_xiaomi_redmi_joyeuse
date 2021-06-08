@@ -1679,6 +1679,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     FingerprintExtensionService \
+    PowerOffAlarm \
     libMpeg4SwEncoder \
     libthermalclient \
     com.quicinc.cne.api@1.0 \
