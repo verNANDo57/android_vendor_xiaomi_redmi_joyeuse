@@ -1343,66 +1343,18 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/camera/score_icon.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/score_icon.png \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/camera/megviifacepp_0_5_2_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/megviifacepp_0_5_2_model \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/device_features/joyeuse.xml:$(TARGET_COPY_OUT_VENDOR)/etc/device_features/joyeuse.xml \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.almalence.node.sr.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.almalence.node.sr.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.altek.node.depurple.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.altek.node.depurple.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.camx.chiiqutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.camx.chiiqutils.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.eisv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.eisv2.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.eisv3.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.eisv3.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.hvx.addconstant.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.hvx.addconstant.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.hvx.binning.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.hvx.binning.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.depth.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.depth.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.dewarp.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.dewarp.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.dummyrtb.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.dummyrtb.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.dummysat.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.dummysat.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.eisv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.eisv2.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.eisv3.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.eisv3.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.fcv.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.fcv.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.gpu.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.gpu.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.memcpy.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.memcpy.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.remosaic.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.remosaic.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.stich.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.stich.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.swregistration.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.swregistration.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.watermark.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.watermark.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.node.xiaomigenderage.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.xiaomigenderage.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.aec.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.aec.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.aecwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.aecwrapper.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.af.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.af.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.afd.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.afd.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.afwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.afwrapper.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.asd.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.asd.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.awb.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.awb.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.awbwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.awbwrapper.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.haf.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.haf.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.hafoverride.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.hafoverride.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.localhistogram.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.localhistogram.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.pdlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.pdlib.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.pdlibsony.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.pdlibsony.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qti.stats.pdlibwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.stats.pdlibwrapper.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qtistatic.stats.aec.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qtistatic.stats.aec.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qtistatic.stats.af.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qtistatic.stats.af.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qtistatic.stats.awb.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qtistatic.stats.awb.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.qtistatic.stats.pdlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qtistatic.stats.pdlib.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.st.node.sr.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.st.node.sr.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.visidon.node.clearshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.visidon.node.clearshot.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/com.visidon.node.sr.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.visidon.node.sr.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/libdepthmapwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/libdepthmapwrapper.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/components/libmmcamera_cac3.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/libmmcamera_cac3.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.eeprom.sunny_gc8034.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.sunny_gc8034.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_gc02m1.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_gc02m1.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_gc8034.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_gc8034.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_imx582.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_imx582.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_ov16a1q.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_ov16a1q.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_ov2180.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_ov2180.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_ov8856.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_ov8856.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_s5k5e9.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_s5k5e9.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.curtana_s5kgm2.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.curtana_s5kgm2.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.excalibur_gc02m1.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.excalibur_gc02m1.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.excalibur_gc8034.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.excalibur_gc8034.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.excalibur_ov2180.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.excalibur_ov2180.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.excalibur_ov32a1q.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.excalibur_ov32a1q.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.excalibur_ov8856.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.excalibur_ov8856.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.excalibur_s5k5e9.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.excalibur_s5k5e9.so \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensor.excalibur_s5kgw1.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.excalibur_s5kgw1.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensormodule.ofilm_gc02m1.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.ofilm_gc02m1.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensormodule.ofilm_ov16a1q.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.ofilm_ov16a1q.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensormodule.ofilm_ov2180.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.ofilm_ov2180.bin \
@@ -1431,14 +1383,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.tuned.sunny_ov2180.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_ov2180.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.tuned.sunny_s5k5e9.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_s5k5e9.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.tuned.sunny_s5kgw1.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_s5kgw1.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensormodule.ofilm_gc02m1_filter.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.ofilm_gc02m1_filter.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensormodule.ofilm_s5kgm2.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.ofilm_s5kgm2.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_imx582.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_imx582.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.sensormodule.sunny_s5kgm2.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.sunny_s5kgm2.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.tuned.ofilm_gc02m1.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.ofilm_gc02m1.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.tuned.ofilm_gc02m1_filter.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.ofilm_gc02m1_filter.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.tuned.ofilm_s5kgm2.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.ofilm_s5kgm2.bin \
-    vendor/xiaomi/joyeuse/proprietary/vendor/lib/camera/com.qti.tuned.sunny_imx582.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.sunny_imx582.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.ofilm_s5kgw1_mirrorflip.bin \
     vendor/xiaomi/joyeuse/proprietary/vendor/lib64/camera/com.qti.sensormodule.sunny_ov32a1q.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.sunny_ov32a1q.bin \
