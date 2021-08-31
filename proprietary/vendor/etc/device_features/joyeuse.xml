@@ -206,6 +206,8 @@
     <bool name="support_provision_app_permission">true</bool>
     <!--whether support pre-installed application-->
     <bool name="support_pre_installed_application">true</bool>
+    <!--wheater support validate device when syste upadte -->
+    <bool name="support_ota_validate">true</bool>
     <!--whether show basic info items-->
     <bool name="support_show_basic_items">true</bool>
     <!--whether show my device-->
@@ -214,6 +216,8 @@
     <bool name="support_round_corner">true</bool>
     <!--wheater support show credentials-->
     <bool name="support_credentials">true</bool>
+    <!--whether support main show XiaoAi-->
+    <bool name="support_main_xiaoai">true</bool>
     <!--battery capacity typ of the device-->
     <string name="battery_capacity_typ">5020</string>
     <!--the vendor feature, it's value may be qcom,mediatek,leadcore or nvidia-->
@@ -315,6 +319,8 @@
     <bool name="support_new_silentmode">true</bool>
     <!-- whether CN hardware can flash Global rom -->
     <bool name="enable_flash_global">true</bool>
+    <!-- Support Sign Verify In Cust Partition-->
+    <bool name="support_sign_verify_in_cust">true</bool>
     <!--Add for the system data-app which could uninstall by user-->
     <string-array name="system_data_packagename_list">
         <item>com.xiaomi.pass</item>
