@@ -205,7 +205,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/ftm_test_config_atoll-qrd-snd-card:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config_atoll-qrd-snd-card \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/ftm_test_config_atoll-wcd937x-snd-card:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config_atoll-wcd937x-snd-card \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/gps_diag.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/gps_diag.cfg \
-    vendor/xiaomi/joyeuse/proprietary/vendor/etc/sdr_config.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/sdr_config.cfg \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/sensor_diag.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/sensor_diag.cfg \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/sn100u_pnx_cui.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_cui.pnscr \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/sn100u_pnx_ese_3.pnscr:$(TARGET_COPY_OUT_VENDOR)/etc/sn100u_pnx_ese_3.pnscr \
