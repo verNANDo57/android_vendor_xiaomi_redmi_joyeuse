@@ -1274,6 +1274,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/20_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/20_version_update_ecc_table.sql \
     vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/21_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/21_version_update_ecc_table.sql \
     vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/22_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/22_version_update_ecc_table.sql \
+    vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/23_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/23_version_update_ecc_table.sql \
+    vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/24_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/24_version_update_ecc_table.sql \
+    vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/25_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/25_version_update_ecc_table.sql \
+    vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/26_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/26_version_update_ecc_table.sql \
     vendor/xiaomi/joyeuse/proprietary/vendor/framework/com.fingerprints.extension.jar:$(TARGET_COPY_OUT_VENDOR)/framework/com.fingerprints.extension.jar \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit1__1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit1__1.xml \
