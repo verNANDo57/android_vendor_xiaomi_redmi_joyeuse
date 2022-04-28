@@ -34,7 +34,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <name>IMTService</name>
             <instance>default</instance>
         </interface>
-        <fqname>@1.2::IMTService/default</fqname>
     </hal>
 </manifest>
 
