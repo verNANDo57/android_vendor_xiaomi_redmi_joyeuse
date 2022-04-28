@@ -34,7 +34,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <name>ITidaService</name>
             <instance>default</instance>
         </interface>
-        <fqname>@1.2::ITidaService/default</fqname>
     </hal>
 </manifest>
 

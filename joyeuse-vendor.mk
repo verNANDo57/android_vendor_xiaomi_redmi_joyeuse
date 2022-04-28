@@ -1,4 +1,4 @@
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2022 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -123,6 +123,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libwfdmmsink.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfdmmsink.so \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libwfdnative.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfdnative.so \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libwfdrtsp.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfdrtsp.so \
+    vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libaptXHD_encoder.so \
+    vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libaptX_encoder.so \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libwfdsinksm.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfdsinksm.so \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libwfduibcinterface.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfduibcinterface.so \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/libwfduibcsink.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfduibcsink.so \
@@ -1278,6 +1280,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/24_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/24_version_update_ecc_table.sql \
     vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/25_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/25_version_update_ecc_table.sql \
     vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/26_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/26_version_update_ecc_table.sql \
+    vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/27_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/27_version_update_ecc_table.sql \
+    vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/28_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/28_version_update_ecc_table.sql \
+    vendor/xiaomi/joyeuse/proprietary/vendor/radio/qcril_database/upgrade/29_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/29_version_update_ecc_table.sql \
     vendor/xiaomi/joyeuse/proprietary/vendor/framework/com.fingerprints.extension.jar:$(TARGET_COPY_OUT_VENDOR)/framework/com.fingerprints.extension.jar \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/permissions/com.fingerprints.extension.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.fingerprints.extension.xml \
     vendor/xiaomi/joyeuse/proprietary/vendor/etc/cit1__1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/cit1__1.xml \
