@@ -223,6 +223,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/vendor.qti.ims.rcsconfig@2.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.ims.rcsconfig@2.0.so \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/vendor.qti.ims.rcsconfig@2.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.ims.rcsconfig@2.1.so \
     vendor/xiaomi/joyeuse/proprietary/system_ext/lib64/vendor.qti.hardware.data.lce@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.hardware.data.lce@1.0.so \
+    vendor/xiaomi/joyeuse/proprietary/system_ext/priv-app/ims/lib/arm64/libimscamera_jni.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/ims/lib/arm64/libimscamera_jni.so \
+    vendor/xiaomi/joyeuse/proprietary/system_ext/priv-app/ims/lib/arm64/libimsmedia_jni.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/ims/lib/arm64/libimsmedia_jni.so \
+    vendor/xiaomi/joyeuse/proprietary/system_ext/priv-app/WfdService/lib/arm64/libwfdnative.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/WfdService/lib/arm64/libwfdnative.so \
     vendor/xiaomi/joyeuse/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/xiaomi/joyeuse/proprietary/vendor/bin/adpl:$(TARGET_COPY_OUT_VENDOR)/bin/adpl \
     vendor/xiaomi/joyeuse/proprietary/vendor/bin/adsprpcd:$(TARGET_COPY_OUT_VENDOR)/bin/adsprpcd \
@@ -1784,6 +1787,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.data.cne.internal.api@1.0 \
     vendor.qti.hardware.data.cne.internal.constants@1.0 \
     vendor.qti.hardware.data.cne.internal.server@1.0 \
+    vendor.qti.hardware.data.cne.internal.server@1.1 \
     vendor.qti.hardware.fm@1.0 \
     CACertService \
     CneApp \
@@ -1792,6 +1796,7 @@ PRODUCT_PACKAGES += \
     pasrservice \
     DeviceInfo \
     QtiTelephonyService \
+    QtiTelephony \
     uceShimService \
     WfdService \
     HotwordEnrollmentOKGoogleHEXAGON \
