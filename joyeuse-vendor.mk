@@ -1796,7 +1796,6 @@ PRODUCT_PACKAGES += \
     pasrservice \
     DeviceInfo \
     QtiTelephonyService \
-    QtiTelephony \
     uceShimService \
     WfdService \
     HotwordEnrollmentOKGoogleHEXAGON \
